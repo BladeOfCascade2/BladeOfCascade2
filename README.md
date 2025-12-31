@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello I hope you have a great day!
+I am currently learning python I inspire to eventually do a job involving code.
+You can usally reach me on any platform under the name **BladeOfCascade** you will be able to tell its me by the profile picture and usual description (Text in bold) I recommend contacting me on **discord**
+
+
 
 <!--
 **BladeOfCascade2/BladeOfCascade2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
