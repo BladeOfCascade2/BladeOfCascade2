@@ -1,6 +1,6 @@
 ## Hello I hope you have a great day!
 I am currently learning python I inspire to eventually do a job involving code.
-You can usally reach me on any platform under the name **BladeOfCascade** you will be able to tell its me by the profile picture and usual description (Text in bold) I recommend contacting me on **discord**
+I (Currently) use github to put my projects on for people to see and use
 
 
 
